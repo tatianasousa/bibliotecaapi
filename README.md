@@ -30,3 +30,6 @@ No header Authorization colocar : Bearer <token>
 - django-filter==2.4.0
 - djangorestframework==3.12.2
 - djangorestframework-simplejwt==4.6.0
+
+Link do swagger: http://localhost:8000/docs/
+Link do vídeo: https://www.youtube.com/watch?v=ghsNDwe1Hg0&feature=youtu.be
