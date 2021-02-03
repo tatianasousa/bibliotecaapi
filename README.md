@@ -13,7 +13,7 @@ Devem ser seguidos os comandos:
 
     python manage.py migrate
 
-    python manage.py runserver 8000
+    python manage.py runserver
 
 ```
 Para criar um super usuário:
@@ -30,4 +30,3 @@ No header Authorization colocar : Bearer <token>
 - django-filter==2.4.0
 - djangorestframework==3.12.2
 - djangorestframework-simplejwt==4.6.0
-- drf-spectacular==0.13.1
